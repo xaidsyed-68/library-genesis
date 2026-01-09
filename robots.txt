@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /
+
+# Allow Google
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+# Allow Bing
+User-agent: Bingbot
+Allow: /
+
+# Allow DuckDuckBot
+User-agent: DuckDuckBot
+Allow: /
+
+# Allow Yandex
+User-agent: Yandex
+Allow: /
+
+# Allow ChatGPT / OpenAI
+User-agent: GPTBot
+Allow: /
+
+
+Sitemap:https://xaidsyed-68.github.io/library-genesis/sitemap.xml
