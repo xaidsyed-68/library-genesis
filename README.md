@@ -1,2 +1,2 @@
 # library-genesis
-This is the digital library , where you can read and download books easly . This site is secure and safe with no ads .
+this site for education purpose only, if you have any sugestions please contact on : xaidsyed8@gmail.com
